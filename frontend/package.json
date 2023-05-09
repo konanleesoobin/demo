@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "데모설명",
+  "main": "./js/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "leesoobin",
+  "license": "ISC"
+}
