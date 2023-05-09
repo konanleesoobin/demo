@@ -1,7 +1,7 @@
 {
   "name": "demo",
   "version": "1.0.0",
-  "description": "데모설명중3",
+  "description": "데모설명중4",
   "main": "./js/index.js",
   "scripts": {
     "test": "node test.js"
